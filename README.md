@@ -1,6 +1,6 @@
-###########################################################################################################################################################
-                                                       **ToDoMVC UI automation using Selenium and Java**
-###########################################################################################################################################################
+######################################################################################
+                              **ToDoMVC UI automation using Selenium and Java**
+######################################################################################
 This repository contains web application automation for TodoMVC app using Selenium, Cucumber BDD framework with Java as programming language. Framework is structured by following the page object design patterns and Behaviour driven development(BDD) is implemented as a part of it. Gherkins language is used to write the test cases in BDD format and cucumber is used to integrate it with Java. Framework is designed in such a way that it is easier for maintenance. 
 
 **Instructions to run the automation tests**
